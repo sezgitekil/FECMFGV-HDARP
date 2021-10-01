@@ -1,6 +1,9 @@
 # FECMFGV-HDARP
+
 "Solving a Hybrid Mixed Fleet Heterogeneous Dial-a-Ride Problem in Delay-Sensitive Container Transportation"
- Sezgi Tekil-Ergün 1, Erwin Pesch 2,1*, Katarzyna Anna Kuzmicz 3
+ 
+
+Sezgi Tekil-Ergün 1, Erwin Pesch 2,1*, Katarzyna Anna Kuzmicz 3
 
 1 Center for Advanced Studies in Management, HHL Leipzig Graduate School of Management, Leipzig 04109, Germany
 2 Institute of Information Systems, Faculty III, University of Siegen, Siegen 57068, Germany
