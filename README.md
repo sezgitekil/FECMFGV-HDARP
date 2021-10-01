@@ -58,13 +58,21 @@ row is the latest visiting times of the 8 locations. The maximum length of the r
 2f2p2d2s1nB.txt is generated for benchmarking and below is a description of the format of the text file. 
 
 'NumNodes' is the number of requests in total.
+
 'NumPicNodes' is the total number of pick-up requests.	
+
 'NumTrucks' is the number of trucks.	
+
 'NumStations' denotes the number of stations.
+
 'NumPicFull' is the number of pick-up full container requests.
+
 'NumPicEmpty' is the number of pick-up empty container requests.	
+
 'NumDelEmpty' is the number of drop-off empty container requests.	
+
 'Tmax'is the maximum length of the route. 
+
 'DistanceMatrix' is the number of the sample.
 
 
